@@ -35,7 +35,6 @@ This instance establishes a new benchmark, making it a go-to resource for inspir
   - [Description](#description)
   - [Documentation](#documentation)
   - [Deployment](#deployment)
-  - [Screenshot](#screenshot)
   - [Acknowledgements](#acknowledgements)
   - [License](#license)
   - [Contact](#contact)
