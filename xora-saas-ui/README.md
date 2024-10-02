@@ -62,9 +62,9 @@ Install Tailwind CSS with Vite: https://tailwindcss.com/docs/guides/vite
  
  
   
-  ## Screenshot
+  <!-- ## Screenshot
   ![Screenshot](./public/images/gif1.gif)
-  ![Screenshot](./public/images/gif2.gif)
+  ![Screenshot](./public/images/gif2.gif) -->
   
   
   ## Acknowledgements
