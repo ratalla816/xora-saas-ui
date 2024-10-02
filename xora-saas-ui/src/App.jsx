@@ -1,17 +1,17 @@
 // import React from 'react'
 
 // export default 
-const App = () => {
-  return (
-    <div>
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-    </div>
-  )
-}
+// const App = () => {
+//   return (
+//     <div>
+//     <h1 className="text-3xl font-bold underline">
+//       Hello world!
+//     </h1>
+//     </div>
+//   )
+// }
 
-export default App
+// export default App
 
 
 
@@ -25,19 +25,20 @@ export default App
 // import Download from "./sections/Download.jsx";
 // import Footer from "./sections/Footer.jsx";
 
-// const App = () => {
-//   return (
-//     <main className="overflow-hidden">
-//       <Header />
-//       <Hero />
-//       <Features />
-//       <Pricing />
-//       <Faq />
-//       <Testimonials />
-//       <Download />
-//       <Footer />
-//     </main>
-//   );
-// };
+const App = () => {
+  return (
+    // Hide unnecessary scrollable elements
+    <main className="overflow-hidden">
+      <Header />
+      <Hero />
+      <Features />
+      <Pricing />
+      <Faq />
+      <Testimonials />
+      <Download />
+      <Footer />
+    </main>
+  );
+};
 
-// export default App;
+export default App;
