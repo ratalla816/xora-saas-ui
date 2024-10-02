@@ -57,14 +57,14 @@ Install Tailwind CSS with Vite: https://tailwindcss.com/docs/guides/vite
 
 ## Deployment
 
-   * This application is deployed with Hostinger: https://main.d2b20auuux8ehi.amplifyapp.com/
+   * This application is deployed using Hostinger at: https://xora-saas-ui.com/
    
  
  
   
-  ## Screenshot
+  <!-- ## Screenshot
   ![Screenshot](./public/images/gif1.gif)
-  ![Screenshot](./public/images/gif2.gif)
+  ![Screenshot](./public/images/gif2.gif) -->
   
   
   ## Acknowledgements
